@@ -59,7 +59,7 @@ Analyze resumes, match them with job descriptions, identify skill gaps, generate
 ![Login](resources/Login.png)
 
 ###  Home
-![Home](resources/home.png)
+![Home](resources/Home.png)
 
 ###  Interview Report
 ![technical](resources/technical.png)
